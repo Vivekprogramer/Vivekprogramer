@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vivekprogrammer(Vivek KUMAR Singh).
+- 👋 Hi, I’m @Vivekprogrammer(Vivek Kumar Singh).
 - 👀 I’m interested in Software Devloping. 
-- 🌱 I’m currently learning C, c++,VS Code,Ketlin and many more.
+- 🌱 I’m currently learning C, c++,python,java,VS Code,Ketlin and many more.
 - 💞️ I’m looking to collaborate on Linkdin.
 - 📫 How to reach me:
 - contact no:7541917920
